@@ -1,2 +1,1 @@
-# slashmark-advanced-task
-AI-Powered Indoor Obstacle Avoidance
+AI-Powered Indoor Obstacle Avoidance: Create intelligent systems using AI to navigate indoor spaces while detecting and avoiding obstacles. These systems enhance safety and autonomy for robots, drones, and smart devices in confined environments.
